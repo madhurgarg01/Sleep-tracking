@@ -62,8 +62,6 @@ The Sleep Tracking Website is a web application that helps users monitor their s
 
 2. Open the app in the browser:
 
-   ```
-   ```
 
 [http://localhost:3000](http://localhost:3000)
 
@@ -84,6 +82,5 @@ This project is open source and available under the MIT License.
 ## 🌐 Connect
 For any queries or suggestions, feel free to contact me at [madhurgarg052@gmail.com](mailto:your-email@example.com).
 
----
 
-```
+
