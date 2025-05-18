@@ -20,6 +20,8 @@ The Sleep Tracking Website is a web application that helps users monitor their s
 * HTML5
 * CSS3
 * JavaScript
+* React.js
+* Firebase (Backend)
 * Chart.js (for graphs and visualizations)
 * Netlify (for deployment)
 
@@ -80,7 +82,7 @@ The project is deployed on Netlify. To deploy updates:
 This project is open source and available under the MIT License.
 
 ## 🌐 Connect
-For any queries or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+For any queries or suggestions, feel free to contact me at [madhurgarg052@gmail.com](mailto:your-email@example.com).
 
 ---
 
